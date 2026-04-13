@@ -43,6 +43,7 @@ The project is built with modularity in mind, separating data processing pipelin
 
 
 
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -62,7 +63,7 @@ Ensure you have Python 3.9+ installed.
 
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    source venv/bin/activate  # On Windows: venv\\Scripts\\activate
     ```
 
 3.  **Install Dependencies:**
@@ -91,6 +92,4 @@ The `Best XI Selector` doesn't just pick the top run-scorers. It calculates a co
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome\! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/yourusername/T20-World-Cup-Analysis/issues).
-
-```
-```
+"""
