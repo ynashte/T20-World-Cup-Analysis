@@ -43,20 +43,20 @@ The project is built with modularity in mind, separating data processing pipelin
 
 
 
-**🚀 Getting Started**
+## 🚀 Getting Started
 
-**Prerequisites**
+### Prerequisites
 
 Ensure you have Python 3.9+ installed.
 
+### Installation
 
+1.  **Clone the repository:**
 
-1. **Installation**
-
-Clone the repository:
-```bash
-git clone [https://github.com/yourusername/T20-World-Cup-Analysis.git](https://github.com/yourusername/T20-World-Cup-Analysis.git)cd T20-World-Cup-Analysis
-```
+    ```bash
+    git clone [https://github.com/yourusername/T20-World-Cup-Analysis.git](https://github.com/yourusername/T20-World-Cup-Analysis.git)
+    cd T20-World-Cup-Analysis
+    ```
 
 2.  **Create a Virtual Environment (Recommended):**
 
@@ -92,4 +92,5 @@ The `Best XI Selector` doesn't just pick the top run-scorers. It calculates a co
 
 Contributions, issues, and feature requests are welcome\! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/yourusername/T20-World-Cup-Analysis/issues).
 
+```
 ```
