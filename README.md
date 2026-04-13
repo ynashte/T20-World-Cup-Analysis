@@ -15,11 +15,11 @@ An interactive, data-driven web application built with Streamlit and Pandas that
 
 ## 📸 Dashboard Previews
 
-*(Replace the placeholder links below with actual screenshots of your running app. A picture is worth a thousand words for a recruiter!)*
-
 | Batting Insights | Best XI Selector |
 | :---: | :---: |
-| <img src="docs/images/batting_preview.png" alt="Batting Analysis" width="400"/> | <img src="docs/images/best_xi_preview.png" alt="Best XI Selector" width="400"/> |
+|![batting analysis_page-0001](https://github.com/user-attachments/assets/c56c6584-9f6b-424e-b548-9635fa82caf0)
+ | ![best 11_page-0001](https://github.com/user-attachments/assets/79302bec-c4f8-4808-8a67-72ab5263508d)
+|
 | *Phase-wise run accumulation and strike rate analysis.* | *Algorithmic generation of the tournament's optimal team.* |
 
 ## 🏗️ Technical Architecture
