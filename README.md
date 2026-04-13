@@ -40,3 +40,54 @@ The project is built with modularity in mind, separating data processing pipelin
 ├── utils/
 │   └── data_cleaning.py        # Data preprocessing and feature engineering script
 └── requirements.txt            # Project dependencies
+
+
+
+## 🚀 Getting Started
+
+### Prerequisites
+Ensure you have Python 3.9+ installed.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/yourusername/T20-World-Cup-Analysis.git](https://github.com/yourusername/T20-World-Cup-Analysis.git)
+   cd T20-World-Cup-Analysis
+````
+
+2.  **Create a Virtual Environment (Recommended):**
+
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    ```
+
+3.  **Install Dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4.  **Prepare the Data:**
+    Run the cleaning utility to format the raw data and engineer necessary features (like phase categorization).
+
+    ```bash
+    python utils/data_cleaning.py
+    ```
+
+5.  **Launch the Dashboard:**
+
+    ```bash
+    streamlit run app.py
+    ```
+
+## 🧠 Core Logic Highlight: Best XI Algorithm
+
+The `Best XI Selector` doesn't just pick the top run-scorers. It calculates a composite `all_round_score`, limits selections to a maximum of 4 players per real-world team, and explicitly fills designated roles (2 Openers, 3 Middle Order, 2 All-Rounders, 4 Bowlers) to create a realistic, balanced cricket squad.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome\! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/yourusername/T20-World-Cup-Analysis/issues).
+
+```
