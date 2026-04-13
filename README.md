@@ -30,6 +30,7 @@ An interactive, data-driven web application built with Streamlit and Pandas that
 The project is built with modularity in mind, separating data processing pipelines from the frontend application components:
 
 
+```text
 ├── app.py                      # Main Streamlit application entry point
 ├── data/                       # Raw and cleaned CSV datasets
 ├── modules/                    # Distinct analytical modules 
@@ -40,7 +41,7 @@ The project is built with modularity in mind, separating data processing pipelin
 ├── utils/
 │   └── data_cleaning.py        # Data preprocessing and feature engineering script
 └── requirements.txt            # Project dependencies
-
+````
 
 
 
